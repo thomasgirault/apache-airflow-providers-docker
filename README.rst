@@ -41,7 +41,7 @@ Installation
 You can install this package on top of an existing Airflow 2.1+ installation via
 ``pip install apache-airflow-providers-docker``
 
-The package supports the following python versions: 3.7,3.8,3.9,3.10
+The package supports the following python versions: 3.6,3.7,3.8,3.9,3.10
 
 PIP requirements
 ----------------
